@@ -1,4 +1,6 @@
 # Weather Forecast App
+![weather](https://github.com/user-attachments/assets/0e7b4730-11b1-4ba5-a4d2-bbc476096e1f)
+
 # Description
 
 The Weather Forecast App is a web application built with React that utilizes the OpenWeather API to provide detailed weather information for cities around the world. Users can view the current weather, a 5-day forecast, and detailed hourly forecasts with 3-hour intervals.
